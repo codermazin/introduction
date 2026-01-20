@@ -1,2 +1,6 @@
 print("hello new user")
-print('how are you')
+print('welcome to the world of programming')
+print(76)
+print("hello python \n")
+print("hello",5)
+print("welcome to " ,end= "*")
